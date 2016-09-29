@@ -1,0 +1,163 @@
+.navbar-default {
+    background-color: #ff0000;
+    border-color: #E7E7E7;
+
+	background-image: url("../img/gradiente-black.png");
+	background-size: 100% 100%;
+}
+.navbar-default .navbar-nav > li > a {
+    color:#ffffff;
+
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #E7E7E7;
+    color: #ffffff;
+}
+.navbar-nav > .active > a:hover {
+	color:#fff;
+}
+.navbar-default a:visited{
+	color:#fff;
+}
+.navbar-brand:visited {
+	color:#fff;
+}
+#wrap {
+	background-color: #bb0000;
+	position:relative;
+	background-image: url("../img/gradiente-black.png");
+	background-size: 100% 100%;
+	top:0px;
+	width: 100%;
+	text-align: center;
+	padding-top:15px;
+
+}
+.texto-branco {
+		color:white;
+}
+.texto-vermelho {
+	color:red;
+}
+.texto-cinza {
+		color:gray;
+}
+#wrap a {
+	color:white;
+}
+.no-bull {
+	list-style-type: none;
+}
+#wrap ul {
+	text-align:center;
+	list-style-type: none;
+}
+.container {
+	width:100%;
+	height: auto;
+	padding:none;
+	margin:none;
+}
+
+.imagem {
+	width: 100%; 
+	position:relative; 
+	top:0px;
+	border:  1px solid #ccc;
+}
+
+.place-footer {
+	width:100%;
+	height: 100px;
+}
+.conteudo {
+	min-width: 100px;
+	padding:10px 30px 30px 30px;
+
+
+}
+.vejamais {
+	min-width: 100px;
+	padding:10px 30px 30px 30px;
+}
+.destaque {
+	color:darkblue;
+}
+.centro {
+	text-align:center;
+}
+p {
+	text-indent: 20px;
+	text-align:justify;
+}
+h1 {
+	color:red;
+}
+h2 {
+	color:red;
+}
+}
+h4 {
+	color:red;
+}
+h3 {
+	color:red;
+	text-align:justify;
+}
+img {
+	border: 1px solid #ccc;
+}
+.comentario {
+	color:#ccc;
+}
+
+.align-left
+{
+	text-align: left;
+}
+.align-right
+{
+	text-align: right;
+}
+.nome {
+	color:gray;
+}
+.postadoem {
+	color:gray;
+	font-size: 12px;
+}
+.box {
+	width:200px;
+	height: 160px;
+	text-align: center;
+	border:1px solid #ccc;
+	background-size:  100% auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: red;
+	float:left;
+}
+.box-bg {
+	background-color:red;
+	background-image: url('../img/gradiente-black.png');
+	height: auto;
+	position:relative;
+	top:120px;
+	left: 0px;
+}
+.box a {
+	text-decoration:none;
+	color:white;
+}
+.box a:hover {
+	text-decoration:none;
+	color:#000;
+}
+.fotorama {
+	border:1px solid #ccc;
+	background-color:red;
+	background-image:  url('../img/gradiente-black.png');
+	background-size:100% 100%;
+}
